@@ -19,7 +19,7 @@ Python for Statistics
 
 Python and Data Science
 - [Python Machine Learning Tutorial (Data Science)](https://youtu.be/7eh4d6sabA0)
-- [Data Analysis with Python - Full Course for Beginners (Numpy, Pandas, Matplotlib, Seaborn)](https://youtu.be/r-uOLxNrNk8)
+- [Data Analysis with Python - Full Course for Beginners (NumPy, Pandas, Matplotlib, Seaborn)](https://youtu.be/r-uOLxNrNk8)
 
 Python Tools and Libraries
 - [NumPy Tutorial 2021](https://youtu.be/8Y0qQEh7dJg) numerical computations
