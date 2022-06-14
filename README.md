@@ -26,3 +26,6 @@ Python Tools and Libraries
 - [Pandas Tutorial 2021](https://youtu.be/PcvsOaixUh8) data manipulation
 - [Matplotlib Tutorial 2021](https://youtu.be/wB9C0Mz9gSo) creating visuals
 
+Tools for Software Development
+- [Git Tutorial for Beginners: Learn Git in 1 Hour](https://youtu.be/8JJ101D3knE) Git version control
+- [Docker Tutorial for Beginners](https://youtu.be/pTFZFxd4hOI) Introduction to Docker
