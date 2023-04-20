@@ -9,6 +9,10 @@ Notes and study materials for a Data Science course.
 - [Git Tutorial for Beginners: Learn Git in 1 Hour](https://youtu.be/8JJ101D3knE) Git version control
 - [Docker Tutorial for Beginners](https://youtu.be/pTFZFxd4hOI) Introduction to Docker
 
+## Abstract Computer Science
+
+- [The Most Beautiful Program Ever Written](https://www.youtube.com/watch?v=OyfBQmvr2Hc) with William Byrd
+
 ## Clojure
 
 - [Clojure Tutorial](https://www.youtube.com/watch?v=ciGyHkDuPAE) with Derek Banas
